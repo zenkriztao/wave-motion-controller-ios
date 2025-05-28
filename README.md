@@ -1,6 +1,3 @@
-Berikut adalah **README.md** yang lengkap dan dalam satu blok markdown untuk **wave-motion-controller-ios**:
-
-````markdown
 # Wave Motion Controller iOS
 
 ## Overview
